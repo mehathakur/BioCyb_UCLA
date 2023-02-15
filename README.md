@@ -40,7 +40,7 @@ System of ordinary differential equations and initial conditions comprosing the 
 - dosing_interval: time between doses, in hours
 - warmup (*default=true*): runs model assuming healthy thyroid function for 30 days to approximate ICs
 - fitting_index: ???
-- parameters: ???"C:\Users\Aidan\Documents\DiStefano_Lab\Code\Diff_eq_test.jl"
+- parameters: ???
 - fixed_parameters: ???
 
 ### ---Thyrosim---
