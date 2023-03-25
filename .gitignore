@@ -1,2 +1,8 @@
+# ignore jupyter files
 __pycache__
 .ipynb_checkpoints
+# ignore images
+*.jpg
+*.jpeg
+*.png
+*.gif
