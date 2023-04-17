@@ -1,8 +1,15 @@
 # ignore jupyter files
 __pycache__
 .ipynb_checkpoints
+
 # ignore images
 *.jpg
 *.jpeg
 *.png
 *.gif
+
+# ignore pdf manuscripts
+*.pdf
+
+# ignore archived versions
+archived/
